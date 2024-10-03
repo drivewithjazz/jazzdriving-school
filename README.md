@@ -1,1 +1,1 @@
-Web site for driving my school.
+Web site for my driving school.
